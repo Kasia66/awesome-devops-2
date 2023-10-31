@@ -134,7 +134,7 @@ Tools
 
 ### DevOps as a Service
 
-- [Cloud 66](https://www.cloud66.com/) - - DevOps as a service that helps to build, deploy and manage any application on any cloud or server.
+- [Cloud 66](https://www.cloud66.com/) - DevOps as a service that helps to build, deploy and manage any application on any cloud or server.
 
 
 Misc
